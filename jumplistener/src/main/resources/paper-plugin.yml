@@ -1,0 +1,4 @@
+name: jumplistener
+version: '1.0-SNAPSHOT'
+main: space.ashalinux.jumplistener.Jumplistener
+api-version: '1.21'

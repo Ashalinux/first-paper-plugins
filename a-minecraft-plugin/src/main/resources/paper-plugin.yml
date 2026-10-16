@@ -1,0 +1,4 @@
+name: a minecraft plugin
+version: '1.0-SNAPSHOT'
+main: space.ashalinux.aMinecraftPlugin.AMinecraftPlugin
+api-version: '1.21'

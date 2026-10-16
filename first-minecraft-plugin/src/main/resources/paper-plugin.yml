@@ -1,0 +1,4 @@
+name: First Minecraft Plugin
+version: '1.0-SNAPSHOT'
+main: space.ashalinux.firstMinecraftPlugin.FirstMinecraftPlugin
+api-version: '1.21'
